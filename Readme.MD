@@ -19,6 +19,12 @@ since, rightmost bit signifies sign so number
 will be negative.
 value = -2
 
+Output
+
+7 5.0 -126
+Two
+Three
+
 ---
 
 2. What is the difference between the static variable totalProducts and the instance variable name?
